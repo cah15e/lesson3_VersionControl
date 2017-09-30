@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+September 29, 2017
 
 ## Student Name:  
-(First and Last Name)
+Chyanne Harrison
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Used a bootstrap template provided to summarize concepts learned in lesson 3.
+
+## View Project:
+https://harrison-lesson3-versioncontrol-chyanneharrison.c9users.io
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A Version Control System takes snapshots of current versions of files and saves them.
+2. Main repositories communicating within a VCS is the local and remote repository.
+3. The commands to commit local files to the remote repository is first, "git add ." and then "git command -m (enter message)".
 
